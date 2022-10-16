@@ -1,0 +1,30 @@
+
+
+.title {
+    color: whitesmoke;
+    font-weight: bolder;
+}
+
+.link {
+    font-size: 18px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.bgfront {
+    background-color: lightseagreen;
+}
+
+.headshotfront {
+    height: 400px;
+}
+
+.line {
+    border-color:white;
+    background-color: white;
+    height: 1px;
+}
+
+.buttons {
+
+
+}
